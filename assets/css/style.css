@@ -885,12 +885,12 @@ blockquote {
     display: inline-block
 }
 
-/* .header .logo .logo-lnk {
+.header .logo .logo-lnk {
     font-size: 18px;
     text-decoration: none;
     display: inline-block;
     max-width: 100px
-} */
+}
 
 .header .download-cv-btn {
     float: right;
